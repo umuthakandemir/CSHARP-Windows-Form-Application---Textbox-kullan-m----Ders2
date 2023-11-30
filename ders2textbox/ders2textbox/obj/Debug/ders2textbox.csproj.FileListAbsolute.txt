@@ -1,0 +1,11 @@
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\bin\Debug\ders2textbox.exe.config
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\bin\Debug\ders2textbox.exe
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\bin\Debug\ders2textbox.pdb
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.csproj.AssemblyReference.cache
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.Form1.resources
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.Properties.Resources.resources
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.csproj.GenerateResource.cache
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.csproj.CoreCompileInputs.cache
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.exe
+C:\Users\Umut Hakan Demir\source\repos\ders2textbox\ders2textbox\obj\Debug\ders2textbox.pdb
